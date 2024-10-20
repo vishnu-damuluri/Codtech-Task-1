@@ -10,10 +10,10 @@ const port = 3000;
 
 // PostgreSQL Connection Pool
 const pool = new Pool({
-    user: 'blogo_65n2_user',
-    host: 'dpg-csaa45bqf0us739rl8lg-a.singapore-postgres.render.com',
-    database: 'blogo_65n2',
-    password: 'HyYdf0oXccvotFxnGxgFc0o0oGvu4MQw',
+    user: '',
+    host: '',
+    database: '',
+    password: '',
     port: 5432,
     ssl: {
         rejectUnauthorized: false,
